@@ -20,3 +20,8 @@ This project aims to develop a machine learning model for weather forecasting us
 - Matplotlib, Seaborn for data visualization
 - Jupyter Notebook for interactive data analysis
 
+## Instructions
+- Activate an environment in terminal
+- pip install jupyter notebook
+- Open the a folder of all the files inside it
+- Enjoy!
